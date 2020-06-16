@@ -1,0 +1,1 @@
+cmd.exe /c "ping 127.0.0.1/../../../../../../../Windows/system32/WindowsPowerShell/v1.0/powershell.exe" -ExecutionPolicy bypass -file c:\temp\MaliciousPowerShell.ps1
