@@ -1,4 +1,14 @@
 # Cmdexerelativepathpoc
+
+Created by: Brad Voris<BR />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/Cmdexerelativepathpoc">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/Cmdexerelativepathpoc">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/Cmdexerelativepathpoc/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/Cmdexerelativepathpoc">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/Cmdexerelativepathpoc">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/Cmdexerelativepathpoc">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/Cmdexerelativepathpoc">
+
 PowerShell script execution via cmd.exe relative path
 This was in Hackaday article:
 https://hackaday.com/2020/06/12/this-week-in-security-crosstalk-tls-resumption-and-brave-shenanigans/
